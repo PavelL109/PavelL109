@@ -1,0 +1,197 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Raleway', sans-serif; 
+    /* font-family: 'Roboto', sans-serif; */
+    color: #214E41;
+    background-color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+}
+
+.header {}
+
+.container {
+    margin: 0 auto; 
+    max-width: 1230px;  
+    padding: 0 15px;  
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+}
+
+.nav-item {
+    margin: 0 20px;
+}
+
+.nav-link {
+    font-weight: bold;
+    font-size: 14px;
+    color: #214E41;
+    text-decoration: none;
+}
+
+.request {
+    text-decoration: none;
+    display: inline-block;
+    background: #43806C;
+    border-radius: 6px;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.main-section {
+    min-height: 720px;
+    background-image: url('../imgs/main-bg.jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 220px 0 0;
+}
+
+.main-title {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+    margin: 0 0 20px;
+    max-width: 500px;
+}
+
+.main-text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+}
+
+
+
+.why-we {
+    padding: 80px 0 0;
+}
+
+.why-we-row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.why-we-content {
+    max-width: 500px;
+}
+
+.why-we-text {
+    font-size: 13px;
+    line-height: 20px;
+       letter-spacing: 0.05px;
+    text-transform: uppercase;
+    color: #43806C;
+    margin: 0 0 20px;
+}
+
+.why-we-title {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 46px;
+        color: #214E41;
+    margin: 0 0 30px;
+}
+
+.why-we-description {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+        letter-spacing: 0.02px;
+    margin: 0 0 40px;
+}
+
+.why-we-btn {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 18px;
+      letter-spacing: 0.02px;
+    color: #214E41;
+    border-bottom: 2px solid #214E41;
+    text-decoration: none;
+    padding: 10px 0;
+}
+.section-two {
+    padding: 80px 0 0;
+}
+
+.why-we-content-e {
+    width: 600px;
+    background-image: url('../imgs/Rectangle\ 2.jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 20px 20px 20px 80px;
+}
+
+.why-we-content-w {
+    max-width: 600px;
+    height: 600px;
+    background-image: url('../imgs/Rectangle\ 1.jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 200px 0 0 0;
+}
+
+.Every-text {
+    font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+vertical-align:text-top;
+font-size: 20px;
+text-indent: 34px;
+line-height: 34px;
+letter-spacing: 0.02px;
+margin: 0px  30px 20px;
+
+color: #FFFFFF;
+}
+.Customizable {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 42px;
+        color: #214E41;
+}
+
+
+.Paperless {
+ font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 42px;
+color: #43806C;
+}
+
+.container-z {
+    margin: 0 auto; 
+    max-width: 1230px;  
+    padding: 0 15px; 
+    background: linear-gradient#FFFFFF
+
+}
